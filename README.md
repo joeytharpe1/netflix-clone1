@@ -16,6 +16,3 @@ This project is a simplified front-end clone of Netflix. It was created with Rea
 - Create .env file in root project and add: API_KEY=YOUR_API_KEY_HERE
 - Run project: `npm start `
 
-### The result of the project can be seen below:
-
-![](https://i.ibb.co/dGbdYjW/screencap-1.jpg)
